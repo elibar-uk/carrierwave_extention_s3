@@ -1,3 +1,5 @@
+require 'carrierwave'
+require 'aws-sdk'
 require "carrierwave_extention_s3/version"
 require 'carrierwave'
 require 'aws-sdk'
